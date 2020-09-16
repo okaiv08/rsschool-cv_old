@@ -6,5 +6,3 @@
 6.	I have no experience in programming.
 7.	Computer technician Volgograd Polytechnic College, bachelor of Economics Modern Humanities Academy
 8.	My level of English is pre-intermediate.
-
-
